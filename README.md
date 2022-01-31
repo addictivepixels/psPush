@@ -14,7 +14,7 @@ Basic popup and webpage pushing script for Atera
 
  3) That's it!
 
- #IMPORTANT: 
+ # IMPORTANT #
  Website pushing requires https:// or http://
 
  Since Atera requires the variable to be set, as long as you
